@@ -165,6 +165,6 @@ Retail-Sales-Project/
 ---
 
 ## 👤 Author  
-**Jayesh Malik**  
-*(Add LinkedIn/GitHub profile link here)*
+**Jayesh Mali**  
+
 
